@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.blue-border-center {
+    background-color: lightblue;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+}
+
+.main-content {
+    width: 800px;
+    height: 600px;
+}
+
+.side-bar {
+    width: 200px;
+}
+
